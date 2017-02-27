@@ -1,4 +1,4 @@
-# Draft
+# Reading Note
 ## Struggling for effectiveness and canadian foreign aid by  Stephen Brown
 ###Introduction
 
@@ -105,4 +105,17 @@ Canada should make use of immigrants if it wants to engage more efficiently and 
 >Carment, D., Nikolko, M., & Douhaibi, D. (2013). Canadian Foreign Policy and Africafs Diaspora: Slippery Slope or Opportunity Unrealized?. Canada Among Nations, 61-78.  
 >Bhushan, A. (2013). Beyond Aid: Trade, Investment, and Remittances between Canada and Developing Countries. Ottawa: The North-South Institute.  
 
-aaa
+# Brainstorming 
+### Contents of this essay
++ Introduction
+	+ Brief summary of how Canadian aid to Africa has been
+	+ Summary of problem in Canadian Aid to Africa
+		+ lack of clear objective, lack of vision
+		+ lack of activities aiming to engage with diasopora
++ Detail about problem
+	+ what is the problem
+	+ why it is a problem
++ idea to overcome the problems
+	+ what is the idea 
+	+ why it is effective
++ Conclusion
