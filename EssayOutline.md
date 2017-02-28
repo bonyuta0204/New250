@@ -1,5 +1,5 @@
 # Reading Note
-## Struggling for effectiveness and canadian foreign aid by  Stephen Brown
+## Struggling for effectiveness and Canadian foreign aid by  Stephen Brown
 ###Introduction
 
 two key themes in depelopmental assistance
@@ -11,8 +11,8 @@ two key themes in depelopmental assistance
 + it is hard to asses the effectiveness of aid. 
 it is not easily measured by numbers, and the output depends on enviroment.
 + donor's actual objectives for providing ODA relates 
-more to thier own interest, though the extent is not clear
-+ actually, those institution acknowledy admit that thier motivation is self-interest
+more to their own interest, though the extent is not clear
++ actually, those institution acknowledy admit that their motivation is self-interest
 + since, many aid are given for the sake of donors, it is natural that developmental effectiveness are not persued
 and thus it is not effective.
 
@@ -54,7 +54,7 @@ CGD: Center for Global Development
 >Canada(2009)
 
 ## Changing Perception into Reality: Canada in Africa by David J Hornsby
-Canada was trying to be perceived as good internationalist citizen. But this is disconnected from reallity.
+Canada was trying to be perceived as good internationalist citizen. But this is disconnected from reality.
 now Canada is more focus on military, less aid and more concentration to non-African country.
 Canada's non-imperialist international approach is well situated with current situation in Africa.
 
@@ -98,20 +98,39 @@ Integration of ministries may do good for making coherence aid. How ever there i
 DFATD: Department of Foreign Affairs, Trade and Development. It's name changed to Global Affairs Canada
 ### The trans-societal pillar: the bridge between Canada and Africa.
 Canada make no effort to engage with diaspora(immigrants from Africa) and government has no guideline for doing so.
-Immigrants can put pressure both thier host and home government. And they are also important because they sent money(remittances) to thier home country. 
-Canada should make use of immigrants if it wants to engage more efficiently and effectively with Africa. It should make use of a sorce that is readily availabel and accicible.
+Immigrants can put pressure both their host and home government. And they are also important because they sent money(remittances) to their home country. 
+Canada should make use of immigrants if it wants to engage more efficiently and effectively with Africa. It should make use of a source that is readily available and accessible.
 #### Useful Citation
 >Medhora, R. P., & Samy, Y. (Eds.). (2016). Canada-Africa Relations: Looking Back, Looking Ahead. McGill-Queen's Press-MQUP.  
->Carment, D., Nikolko, M., & Douhaibi, D. (2013). Canadian Foreign Policy and Africafs Diaspora: Slippery Slope or Opportunity Unrealized?. Canada Among Nations, 61-78.  
+>Carment, D., Nikolko, M., & Douhaibi, D. (2013). Canadian Foreign Policy and Africa's Diaspora: Slippery Slope or Opportunity Unrealized?. Canada Among Nations, 61-78.  
 >Bhushan, A. (2013). Beyond Aid: Trade, Investment, and Remittances between Canada and Developing Countries. Ottawa: The North-South Institute.  
 
+## Canadian Foreign Policy and Africa's Diaspora: Slippery Slope or Opportunity Unrealized? by David Carment et al.
+Canada has no activities engaging with African Diasporas. Engaging with diasporas may have a good effect to politics, but there is chance that new Canadian bring their homeground issue to Canada. This chapter discusses potential of diasporas.
+
+whether or not diasporas are effective for development in  their home country and peace is largely depend on policy of the home country. 
+When the policies accept diasporas to invest on important sector of their country, diasporas tend to have good effect on home country
+
+Diasporas can stimulate trade, also, they can give an aid by remittances. And Diasporas utilize host countries freedom to lobby for political aim which does not necessarily conflict with host countries. 
+### Example of somalia
+diaspora from somalia contribute to their country a lot. But, they tend to unemployed due to discrimination, barrier of language and so on.
+This leads to possibilities that unemployed Somali diasporas go back to terrorists or gang.
+### Conclusion
+However,large number of emigration may lead to 'Brain Drain' of host country.
+#### Citation
+>Bercuson, D. (2008). The world in Canada: Diaspora, demography, and domestic politics. McGill-Queen's Press-MQUP.  
+>Newland, K., & Patrick, E. (2004). Beyond remittances: the role of Diaspora in poverty reduction in their countries of origin, a scoping study by the Migration Policy Institute for the Department of International Development. Migration Policy Institute.  
+>Lum, B., Nikolko, M., Samy, Y., & Carment, D. (2013). Diasporas, Remittances and State Fragility: Assessing the Linkages. Ethnopolitics, 12(2), 201-219.
+
+## Beyond Remittances: The Role of Diaspora in Poverty Reduction in their Countries of Origin
+The first is that DFID and other donors invest heavily in a stronger knowledge base for policy making through research, analysis and rigorous evaluation of Diaspora involvement in development and its impact on poverty.For the donor country, this paper suggest that it should promote the effectiveness of diasporas by policy intervene.
 # Brainstorming 
 ### Contents of this essay
 + Introduction
 	+ Brief summary of how Canadian aid to Africa has been
 	+ Summary of problem in Canadian Aid to Africa
 		+ lack of clear objective, lack of vision
-		+ lack of activities aiming to engage with diasopora
+		+ lack of activities aiming to engage with diaspora
 + Detail about problem
 	+ what is the problem
 	+ why it is a problem
