@@ -124,16 +124,36 @@ However,large number of emigration may lead to 'Brain Drain' of host country.
 
 ## Beyond Remittances: The Role of Diaspora in Poverty Reduction in their Countries of Origin
 The first is that DFID and other donors invest heavily in a stronger knowledge base for policy making through research, analysis and rigorous evaluation of Diaspora involvement in development and its impact on poverty.For the donor country, this paper suggest that it should promote the effectiveness of diasporas by policy intervene.
+>offered by G. Scheffer: ÅgModern Diasporas are ethnic minority groups of migrant origins residing and acting in host countries but maintaining strong sentimental and material links with their countries of origin?their homelands.Åh  
+
+Remmitance has stong effect too poverty reduction because it tends to flow directly to household and used for basic needs as food, shelter, healthcare
+diasporas is major source of FDI, market development (including outsourcing of production), technology transfer, philanthropy, tourism, political contributions, and more intangible flows of knowledge, new attitudes, and cultural influence.
+
+Several donors have taking action such as lowering trans supporting services and opportunities that will enable remitters and receivers of remittances to achieve and expand their goals for these transfers.
+
+some doner aencies, such as the U.S. Inter-American Foundation, support the efforts of Diaspora groups to do community development work in their countries of origin.
+The volume of policy literature, extremely limited before the late 1990s, is growing fast with support from multilateral and national donor agencies.
+The governments of Denmark, the United Kingdom (through DFID and the Economic and Social Research Council), Sweden and the United States, as well as IOM, ILO, the World Bank and the IADB, have been particularly active in commissioning studies, organizing conferences with important background papers, an
+
+onor governments and institutions, including private foundations, have taken some modest steps to enhance the capacity of Diaspora communities to contribute to development and the reduction of poverty in countries of origin, but much more could be done.(e.g. French government, U.S.)
 # Brainstorming 
 ### Contents of this essay
 + Introduction
 	+ Brief summary of how Canadian aid to Africa has been
 	+ Summary of problem in Canadian Aid to Africa
+		+ fact that there are some critique on Canadian aid to African State.(from Strugguling for effectiveness and Canadian foreign aid by stephen Brown, Changing Perception into Reallity. by David J Hornsby)
 		+ lack of clear objective, lack of vision
+			+ both from struggling~ + Changing~
 		+ lack of activities aiming to engage with diaspora
+			+ from changint~ + Beyond~ 
 + Detail about problem
 	+ what is the problem
+		+ the problem is that canadian government has never done any activity engaging with diaspora
+		+ diasporas has strong potential that can lead to efficient developmental aid to African states.
+		+ even though other nations like U.K. or U.S conducted some approach to African diaspora, canada has yet to done any activity.
 	+ why it is a problem
+		+ diasporas have big potential to profit both canada and thier home land.
+			+ 
 + idea to overcome the problems
 	+ what is the idea 
 	+ why it is effective
