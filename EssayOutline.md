@@ -45,6 +45,7 @@ more and more aid are give to middle-class contries such as Vietnum, Peru
 Canadian Government have never commited to an increase of ODA.
 Canada sticks to bilateral aid despite the evidence that untieing bilateral aid leads to effectiveness.
 Canada was once dorminant at the aid of gendaer equality but it is now taken place by U.K. and Ireland.
+Despite strong economic growh, canadian government have never commited to an explicit ODA growth linked to the internatinal 0,7 percent ODA/GNA target.
 
 non-aid policies can be shaped to be more suportive of the developmental prospects of partner countries.
 #### Word Definition
@@ -70,8 +71,17 @@ Competition in African Market is Heating up.
 Canada - African Trade occupies only little part of trade in both countries.
 Because, commoidies Canada buy from Afrca such as gold, oil, uranium and so on has strong impact on growth, trade relationshp has strong potential for growth.
 
+Many African states are trying to imporve conditions for FDI.
+
+Despite steadily improving figures, this still amounts to little when compared both with other Canadian trade relationships and with other trade partners for Africa. For example, CanadaÅfs yearly goods trade with Africa is equivalent to two weeks of Canada?US trade.
+in 2009 Canada?Africa goods trade accounted for 1.4 percent of AfricaÅfs market.
+
 Althogh, due to the political weekness, Canada has yet to done anything with trade with Africa. (e,g, no free trade agreement,)
 Political Activity is critical for building trade relationship between Canada and Africa. Canadian Trade in Sub-Sahara is significantly week.This is only solved by political effort.
+
+Sub-Saharan Africa is the most obvious example, receiving the smallest share of Canadian exports: just 0.4 percent.25 These low numbers are not likely to change without Canadian political representatives pushing trade links and countering misinforma- tion about the investment environment. There
+##### investment to Africa
+in 2012 only approximately $4 billion out of the $711 billion went to African countries.
 
 Canada is trying to make more FIPA with African States and adopted some FIPA with African nations. But none of them are in force and studies show that FIPA which is not in force is useless.
 
@@ -108,10 +118,20 @@ Canada should make use of immigrants if it wants to engage more efficiently and 
 ## Canadian Foreign Policy and Africa's Diaspora: Slippery Slope or Opportunity Unrealized? by David Carment et al.
 Canada has no activities engaging with African Diasporas. Engaging with diasporas may have a good effect to politics, but there is chance that new Canadian bring their homeground issue to Canada. This chapter discusses potential of diasporas.
 
+Diasporas can stimulate trade, also, they can give an aid by remittances. And Diasporas utilize host countries freedom to lobby for political aim which does not necessarily conflict with host countries. 
+
+Canada has to set ground rules for diaspora lobbying or for engaging diaspora in their host states. (no rules in current situation.)  
+
+#### Role of Policy
 whether or not diasporas are effective for development in  their home country and peace is largely depend on policy of the home country. 
 When the policies accept diasporas to invest on important sector of their country, diasporas tend to have good effect on home country
+by lowring the transaction fee, diaspora can stimulate trade between host and home countries.
 
-Diasporas can stimulate trade, also, they can give an aid by remittances. And Diasporas utilize host countries freedom to lobby for political aim which does not necessarily conflict with host countries. 
+bankikng and investment sector are important for overcoming obstacles for transfer.
+
+#### Canada as coutry of immigrant
+African-Canadian population is Canada's fastest growing ethinic minority.  
+The third largest minority group in Canada.
 ### Example of somalia
 diaspora from somalia contribute to their country a lot. But, they tend to unemployed due to discrimination, barrier of language and so on.
 This leads to possibilities that unemployed Somali diasporas go back to terrorists or gang.
@@ -148,13 +168,20 @@ onor governments and institutions, including private foundations, have taken som
 			+ from changint~ + Beyond~ 
 + Detail about problem
 	+ what is the problem
-		+ the problem is that canadian government has never done any activity engaging with diaspora
-		+ diasporas has strong potential that can lead to efficient developmental aid to African states.
-		+ even though other nations like U.K. or U.S conducted some approach to African diaspora, canada has yet to done any activity.
+		+ Decrease of Canadian Aid
+			+ economical influence
+			+ significance of investment
+		+ lack of clear vision
+			+ problem of administration
+			+ problem that aid as a whole has been not achived
 	+ why it is a problem
-		+ diasporas have big potential to profit both canada and thier home land.
-			+ 
-+ idea to overcome the problems
+	+ Potential of Canada in terms of country of immigrant			 
+		+ Canada as country of immigrants.
+		+ potential of diaspora
+			+ tha aid to African states.
+			+ for homeland security
+			+ canadian government has never done any activity engaging with diaspora
+		+ Role of policy 
 	+ what is the idea 
 	+ why it is effective
 + Conclusion
