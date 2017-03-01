@@ -1,6 +1,6 @@
 # Reading Note
 ## Struggling for effectiveness and Canadian foreign aid by Stephen Brown
-###Introduction
+### Introduction
 
 Two key themes in developmental assistance
 
@@ -74,7 +74,7 @@ Because, commodities Canada buy from Africa such as gold, oil, uranium and so on
 Many African states are trying to improve conditions for FDI.
 
 Despite steadily improving figures, this still amounts to little when compared both with other Canadian trade relationships and with other trade partners for Africa. For example, Canadian yearly goods trade with Africa is equivalent to two weeks of Canada? US trade.
-In 2009 Canada? Africa goods trade accounted for 1.4 percent of AfricaÅfs market.
+In 2009 Canada? Africa goods trade accounted for 1.4 percent of AfricaÔøΩfs market.
 
 Although, due to the political weakness, Canada has yet to done anything with trade with Africa. (e.g., no free trade agreement,)
 Political Activity is critical for building trade relationship between Canada and Africa. Canadian Trade in Sub-Sahara is significantly week. This is only solved by political effort.
@@ -156,7 +156,7 @@ This paper examines the role of Diaspora in poverty reduction through four main 
 + Recommendations for future activity by DFID to maximize the contribution of Diaspora to development and poverty reduction
 
 	The first is that DFID and other donors invest heavily in a stronger knowledge base for policy making through research, analysis and rigorous evaluation of Diaspora involvement in development and its impact on poverty.**For the donor country**, this paper suggest that **it should promote the effectiveness of diasporas by policy intervene.**
-	>offered by G. Scheffer: ÅgModern Diasporas are ethnic minority groups of migrant origins residing and acting in host countries but maintaining strong sentimental and material links with their countries of origin? Their homelands.Åh  
+	>offered by G. Scheffer: ÔøΩgModern Diasporas are ethnic minority groups of migrant origins residing and acting in host countries but maintaining strong sentimental and material links with their countries of origin? Their homelands.ÔøΩh  
 
 
 Diaspora based development efforts are powerful development resource but they are not a substitute for donor resources.
@@ -182,10 +182,10 @@ Indian diasporas example: diasporas of inida has power to put pressure on the go
 
 microfinance fund start to rely on diasporas as source of funding.
 #### social capital
->Peggy Levitt defines Ågsocial remittancesÅh as Ågthe ideas, behaviours, identities and social capital that flow from receiving country to sending country communities.Åh56
+>Peggy Levitt defines ÔøΩgsocial remittancesÔøΩh as ÔøΩgthe ideas, behaviours, identities and social capital that flow from receiving country to sending country communities.ÔøΩh56
 
 #### Moderating conflict
-Diasporas may have a wider and more objective perspective, less influenced by raw emotion and anger. In their new homeland, the may have access to a wider variety of information sources, such as those provided by social and employment contacts, media reporting and internet communications.Åh70
+Diasporas may have a wider and more objective perspective, less influenced by raw emotion and anger. In their new homeland, the may have access to a wider variety of information sources, such as those provided by social and employment contacts, media reporting and internet communications.ÔøΩh70
 
 Diaspora involvement in political changes may help to avert violent conflict by promoting and funding non-violent forms of opposition.
 
@@ -213,7 +213,7 @@ The governments of Denmark, the United Kingdom (through DFID and the Economic an
 honor governments and institutions, including private foundations, have taken some modest steps to enhance the capacity of Diaspora communities to contribute to development and the reduction of poverty in countries of origin, but much more could be done.(e.g. French government, U.S.)
 
 The long-standing engagement of Diaspora communities in their countries and communities of
-origin produces enormous financial flows and significant ÅgflowsÅh of human capital, technology, and political support.
+origin produces enormous financial flows and significant ÔøΩgflowsÔøΩh of human capital, technology, and political support.
 ### Recomendation for Donnor
 In addition to financial flows, Diasporas have impacts on political development, policy reforms, social attitudes, foreign relations, conflict resolution (or perpetuation), technology transfer, cultural preservation, leadership development and philanthropy ? among other things
 
@@ -245,13 +245,21 @@ DFID: Department for International Development (DfID) is a United Kingdom govern
 			+ Problem of administration
 			+ Problem that aid as a whole has been not achieved
 	+ Why it is a problem
+		+ the benefit to canada to help african countries.
 	+ Potential of Canada in terms of country of immigrant			 
 		+ Canada as country of immigrants.
 		+ Potential of diaspora
 			+ The aid to African states.
-			+ For homeland security
-			+ Canadian government has never done any activity engaging with diaspora
-		+ Role of policy 
-	+ What is the idea? 
-	+ Why it is effective
+			+ political power
+				+ pressure for both thier host and home
+			+ Power of Remittance
+			+ Trade and Investment 
+			+ social capital
+			+ community development 
+	+ current state of canadian government regarding engagement with diasporas
+	+ suggestion 
+		+ what can canada do
+		+ why it works
+		+ how it works
+			+ which problem will it solve
 + Conclusion
